@@ -1,0 +1,37 @@
+[
+  {
+    "palavras_chave": ["horario", "funcionamento", "atendimento", "aberto", "abre", "fecha"],
+    "pergunta": "Qual o horário de atendimento?",
+    "resposta": "🕐 Nosso horário de atendimento é de segunda a sexta, das 08h às 18h."
+  },
+  {
+    "palavras_chave": ["preco", "valor", "custo", "quanto custa", "orcamento", "plano"],
+    "pergunta": "Quais são os preços?",
+    "resposta": "💰 Nossos planos começam em R$ 99/mês. Para um orçamento personalizado, digite *agendar* e converse com um consultor."
+  },
+  {
+    "palavras_chave": ["endereco", "localizacao", "onde fica", "local", "chegar"],
+    "pergunta": "Onde vocês ficam?",
+    "resposta": "📍 Estamos na Av. Principal, 1000 - Centro. Também atendemos 100% online!"
+  },
+  {
+    "palavras_chave": ["pagamento", "pagar", "pix", "cartao", "boleto", "parcelar"],
+    "pergunta": "Quais formas de pagamento?",
+    "resposta": "💳 Aceitamos Pix, cartão de crédito (até 12x), boleto e transferência bancária."
+  },
+  {
+    "palavras_chave": ["prazo", "entrega", "demora", "quanto tempo", "duracao"],
+    "pergunta": "Qual o prazo de entrega?",
+    "resposta": "⏱️ O prazo médio dos nossos projetos é de 15 a 30 dias úteis, dependendo do escopo."
+  },
+  {
+    "palavras_chave": ["suporte", "problema", "erro", "ajuda tecnica", "nao funciona"],
+    "pergunta": "Como funciona o suporte?",
+    "resposta": "🛠️ Nosso suporte técnico responde em até 24h úteis. Descreva seu problema aqui mesmo que encaminharemos ao time responsável."
+  },
+  {
+    "palavras_chave": ["cancelamento", "cancelar contrato", "reembolso", "devolucao"],
+    "pergunta": "Como cancelo ou peço reembolso?",
+    "resposta": "📄 Cancelamentos podem ser solicitados a qualquer momento, com reembolso proporcional em até 7 dias úteis."
+  }
+]
